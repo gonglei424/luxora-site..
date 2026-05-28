@@ -1,21 +1,21 @@
 export default function LuxuryBagBrandWebsite() {
   const products = [
     {
-      name: 'LUXORA Classic Tote',
-      desc: 'Elegant structured tote designed for work, travel, and everyday luxury.',
-      price: '$179',
+      name: ' MICHAEL KORS Outlet',
+      desc: 'A sophisticated monogram handbag crafted for modern lifestyles, blending versatility with elevated style.',
+      price: '$379',
       image: 'https://images.unsplash.com/photo-1594223274512-ad4803739b7c?q=80&w=1200&auto=format&fit=crop'
     },
     {
-      name: 'LUXORA Luxe Handbag',
-      desc: 'Premium soft-touch handbag with gold-tone minimalist hardware.',
-      price: '$159',
+      name: ' MICHAEL KORS Outlet',
+      desc: 'A sophisticated monogram handbag crafted for modern lifestyles, blending versatility with elevated style.',
+      price: '$359',
       image: 'https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=1200&auto=format&fit=crop'
     },
     {
-      name: 'LUXORA Mini Crossbody',
-      desc: 'Compact modern crossbody bag crafted for urban daily styling.',
-      price: '$129',
+      name: ' MICHAEL KORS Outlet',
+      desc: 'A sophisticated monogram handbag crafted for modern lifestyles, blending versatility with elevated style.',
+      price: '$329',
       image: 'https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?q=80&w=1200&auto=format&fit=crop'
     },
   ];
