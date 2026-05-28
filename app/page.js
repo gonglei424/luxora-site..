@@ -24,7 +24,7 @@ export default function LuxuryBagBrandWebsite() {
     <div className="min-h-screen bg-[#f7f3ee] text-neutral-900 font-sans">
       <header className="sticky top-0 z-50 backdrop-blur bg-[#f7f3ee]/80 border-b border-neutral-200">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
-          <h1 className="text-2xl font-semibold tracking-[0.3em]">LUXORA</h1>
+          <h1 className="text-2xl font-semibold tracking-[0.3em]">MICHAEL KORS Outlet</h1>
           <nav className="hidden md:flex gap-8 text-sm tracking-wide">
             <a href="#collection">Collection</a>
             <a href="#story">Story</a>
