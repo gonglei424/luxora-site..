@@ -3,22 +3,22 @@ export default function Page() {
     {
       name: "Cube Squeeze Toy",
       desc: "Stress relief cube with glitter textures",
-      image: "https://images.unsplash.com/photo-1"
+      image: "/解压1.png"
     },
     {
       name: "Rainbow Mystery Dumpling",
       desc: "Cute surprise squishy toy set",
-      image: "https://images.unsplash.com/photo-2"
+      image: "/包子.png"
     },
     {
-      name: "Butter Squishy",
-      desc: "Soft butter-style squeeze toy",
-      image: "https://images.unsplash.com/photo-3"
+      name: "Slot Machine Fidget Toy",
+      desc: "Slot Machine Fidget Toy",
+      image: "/老虎机.png"
     },
     {
       name: "Ice Cream Fidget Toy",
       desc: "Colorful ice cream style stress toy",
-      image: "https://images.unsplash.com/photo-4"
+      image: "/冰淇淋.png"
     }
   ]
 
